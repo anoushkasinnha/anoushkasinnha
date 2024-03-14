@@ -1,3 +1,4 @@
+![image](https://github.com/anoushkasinnha/anoushkasinnha/assets/161167661/ab850a63-dc80-4d20-be36-36fbc80d0896)
 
 <h1 align="center">Hey👋, I'm Anoushka Sinha</h1>
 
