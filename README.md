@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ---></h3>    
 <br>
 
-<summary><h3>🎵 Recently Listening To:</h3></summary>
+<summary><h3>🎵 Current Jam:</h3></summary>
 <div align="center">
 <br>
   
