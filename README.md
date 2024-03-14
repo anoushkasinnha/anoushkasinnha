@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <br>
   
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bof622wbktai6gt6vjltkxn7ny&unique={true|1|on|yes})
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bof622wbktai6gt6vjltkxn7ny&cover_image=true&theme=default&show_offline=false&background_color=272020&interchange=true&bar_color=345232&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
