@@ -1,4 +1,7 @@
-- 👋 Hi there, I’m Anoushka!
+
+<h1 align="center">Hey👋, I'm Anoushka Sinha</h1>
+
+ 
 - 🦩 Pronouns: She/Her
 - 🔭 I’m interested in exploring the myriad avenues of data interpretation; journeying through cyber security & cyber governance, and learning more about the frontiers of the global tech evolution everyday.  
 - 💾 Presently, I'm delving into different data analysis tools and diving into Python to kickstart my journey :)
@@ -8,7 +11,11 @@
 <!---
 anoushkasinnha/anoushkasinnha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---></h3>    
+<br>
 
-Check out my recently played: 
+<summary><h3>🎵 Recently Listening To:</h3></summary>
+<div align="center">
+<br>
+  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bof622wbktai6gt6vjltkxn7ny&unique={true|1|on|yes})
