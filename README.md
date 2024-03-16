@@ -21,3 +21,11 @@ You can click the Preview link to take a look at your changes.
 <br>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bof622wbktai6gt6vjltkxn7ny&cover_image=true&theme=default&show_offline=false&background_color=272020&interchange=true&bar_color=345232&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+<summary><h2>Get in touch: </h2></summary>
+<div align="center">
+<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anoushkasinnha)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoushka259/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhanoushka@gmail.com)
