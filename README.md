@@ -26,6 +26,9 @@ You can click the Preview link to take a look at your changes.
 <summary><h2>Get in touch: </h2></summary>
 <div align="center">
 <br>
+ 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anoushkasinnha)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoushka259/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhanoushka@gmail.com)
+
+</div>
