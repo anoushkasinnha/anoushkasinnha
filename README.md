@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bof622wbktai6gt6vjltkxn7ny&cover_image=true&theme=default&show_offline=false&background_color=272020&interchange=true&bar_color=345232&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-<summary><h2>Get in touch: </h2></summary>
+<summary><h3>🔗 Get in touch: </h3></summary>
 <div align="center">
 <br>
  
